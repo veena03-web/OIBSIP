@@ -22,7 +22,7 @@ Below are the list of projects i will be working on.This section will be updated
 2.Task 2 : Number Guessing Game          STATUS : COMPLETED✅✅✅
 
 
-3.Task 3 : ATM Interface                  STATUS : PENDING
+3.Task 3 : ATM Interface                  STATUS : COMPLETED✅✅✅
 
 
 4.Task 4 : Online Examination            STATUS : PENDING
