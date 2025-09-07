@@ -25,7 +25,7 @@ Below are the list of projects i will be working on.This section will be updated
 3.Task 3 : ATM Interface                  STATUS : COMPLETED✅✅✅
 
 
-4.Task 4 : Online Examination            STATUS : PENDING
+4.Task 4 : Online Examination            STATUS : COMPLETED ✅✅✅
 
 
 5.Task 5 : Digital Library Management      STATUS : PENDING
